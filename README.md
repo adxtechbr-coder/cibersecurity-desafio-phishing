@@ -39,10 +39,4 @@ POSSIBLE PASSWORD FIELD FOUND: pass=passwd  - ***
 
 ## Prints
 
-| Etapa | Imagem |
-|-------|--------|
-| 1. Página falsa do Facebook carregando no Windows | `images/01-fake-facebook.png` |
-| 2. Menu do setoolkit — Social Engineering Attacks | `images/02-menu-social-eng.png` |
-| 3. Menu do setoolkit — Website Attack Vectors | `images/03-menu-website-attack.png` |
-| 4. Menu do setoolkit — Credential Harvester | `images/04-menu-harvester.png` |
-| 5. POST capturado no terminal do Kali | `images/05-post-capturado.png` |
+![Terminal capturando credenciais](./images/05-post-capturado.png)
